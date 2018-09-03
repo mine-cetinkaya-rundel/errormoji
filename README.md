@@ -19,13 +19,16 @@ If you have suggestions for R error/emoji translations to add, please see the [c
 
 ### `verbose = FALSE`
 
-- Package or namespace load failed: 📦/📛🌌 🚚 ☹️
+- 📦/📛🌌 🚚 ☹️  
+Package or namespace load failed
 
-- Exited with status 1: 🚶‍♂️⬅️🚪  🔱  👑  1️⃣
+- 🚶‍♂️⬅️🚪  🔱  👑  1️⃣  
+Exited with status 1
 
 ### `verbose = TRUE`
 
-- Operation not allowed without an active reactive context: 👩‍⚕️🔪 🚫 ❌ 🏃‍↔️ 📖
+- 👩‍⚕️🔪 🚫 ❌ 🏃‍↔️ 📖  
+Operation not allowed without an active reactive context
     - 📦: [shiny](http://shiny.rstudio.com/)
     - ❓: You are trying to access a "reactive" element inside the Shiny `server` function, but outside any of the reactive functions such as `renderTable()` or `renderPlot()` etc.
     - ✅: Wrap it inside a `reactive()` or place inside a `render*()` function.
