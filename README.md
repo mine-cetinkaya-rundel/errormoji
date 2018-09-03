@@ -8,6 +8,11 @@ Deciphering errors can be difficult and frustrating, but maybe seeing them in em
 
 Note that I'm not suggesting we replace R errors with emojis (that might make them even more frustrating!), but I can see a venue for these in blog posts, class notes, talks, etc.
 
+The translations are organized in two groups:
+
+- `verbose = FALSE`: without any explanation
+- `verbose = TRUE`: some explanation on where the error comes from, why it might be happening, and how it might be resolved
+
 If you have suggestions for R error/emoji translations to add, please see the [contributing guidelines](CONTRIBUTE.md).
 
 ## Translations
