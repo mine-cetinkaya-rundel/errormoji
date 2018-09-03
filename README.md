@@ -39,7 +39,7 @@ Non-numeric argument to binary operator
 
 ### `verbose = TRUE`
 
-- 💡❌🕵️‍♀️
+- 💡❌🕵️‍♀️  
 Object not found
     - ❓: Object not defined in the active workspace.
     - ✅: If working in the console, check your environment tab, and if the object is not listed there, define it. If working in an R Markdown file, define the object prior to the code chunk resulting in this error.
