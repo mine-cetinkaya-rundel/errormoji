@@ -10,22 +10,37 @@ Note that I'm not suggesting we replace R errors with emojis (that might make th
 
 ## Contribute
 
-If you have suggestions for R error/emoji translations to add, please submit a pull request or add an issue. In your submission:
+If you have suggestions for R error/emoji translations to add, please submit a pull request or add an issue. 
 
-- indicate the package that the error is specifically associated with (if any)
-- include a brief sentence describing when users might expect to see the error (with the aim of helping those who are unfamiliar with the error)
-- (if possible to do so generically) briefly describe how you would debug the error
+You can submit a translation with or without additional explanation, or add explanation to someone else's submission.
 
-If an error is specific to a package, please indicate that in your submission as well. A brief sentence describing when the error happens would also be much appreciated, as this will help those unfa
+### Without explanation, aka `verbose = FALSE`
+
+Add your translation to the appropriate section, make sure the emojis render properly (and look the way you want them to look) on GitHub, and you're done!
+
+### With explanation, aka `verbose = TRUE`
+
+Everything above, plus
+
+- 📦: indicate the package that the error is specifically associated with (if any),
+- ❓: include a brief sentence describing when users might expect to see the error (with the aim of helping those who are unfamiliar with the error), and
+- ✅: briefly (and generically) describe how you would debug the error.
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## Translations
+## Translate
 
-- Operation not allowed without an active reactive context: 👩‍⚕️🔪 🚫 ❌ 🏃‍↔️ 📖
+### `verbose = FALSE`
+
+- Package or namespace load failed: 📦/📛🌌 🚚 ☹️
 
 - Exited with status 1: 🚶‍♂️⬅️🚪  🔱  👑  1️⃣
 
 - Execution halted: 💉🛑
 
-- Package or namespace load failed: 📦/📛🌌 🚚 ☹️
+### `verbose = TRUE`
+
+- Operation not allowed without an active reactive context: 👩‍⚕️🔪 🚫 ❌ 🏃‍↔️ 📖
+    - 📦: [shiny](http://shiny.rstudio.com/)
+    - ❓: You are trying to access a "reactive" element inside the Shiny `server` function, but outside any of the reactive functions such as `renderTable()` or `renderPlot()` etc.
+    - ✅: Wrap it inside a `reactive()` or place inside a `render*()` function.
