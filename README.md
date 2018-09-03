@@ -22,14 +22,10 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ## Translations
 
-- Operation not allowed without an active reactive context
-👩‍⚕️🔪 🚫 ❌ 🏃‍↔️ 📖
+- Operation not allowed without an active reactive context: 👩‍⚕️🔪 🚫 ❌ 🏃‍↔️ 📖
 
-- Exited with status 1
-🚶‍♂️⬅️🚪  🔱  👑  1️⃣
+- Exited with status 1: 🚶‍♂️⬅️🚪  🔱  👑  1️⃣
 
-- Execution halted
-💉🛑
+- Execution halted: 💉🛑
 
-- Package or namespace load failed
-📦/📛🌌 🚚 ☹️
+- Package or namespace load failed: 📦/📛🌌 🚚 ☹️
