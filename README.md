@@ -8,7 +8,7 @@ Deciphering errors can be difficult and frustrating, but maybe seeing them in em
 
 Note that I'm not suggesting we replace R errors with emojis (that might make them even more frustrating!), but I can see a venue for these in blog posts, class notes, talks, etc.
 
-If you have suggestions for R error/emoji translations to add, please see the [contributing guidelines](contribute.md).
+If you have suggestions for R error/emoji translations to add, please see the [contributing guidelines](CONTRIBUTE.md).
 
 ## Translations
 
