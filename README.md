@@ -1,4 +1,4 @@
-# errormoji
+# errormoji 😤➡️🤣
 
 Errors can be frustrating, but could they also be fun?
 
@@ -6,7 +6,7 @@ This repo is inspired by a [random tweet](https://twitter.com/minebocek/status/1
 
 Deciphering errors can be difficult and frustrating, but maybe seeing them in emoji form would help lighten things a bit?
 
-Note that I'm not suggesting we replace R errors with emojis (that might make them even more frustrating!) but I can see a venue for these in blog posts, talks, etc.
+Note that I'm not suggesting we replace R errors with emojis (that might make them even more frustrating!), but I can see a venue for these in blog posts, talks, etc.
 
 ## Contribute
 
