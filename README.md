@@ -1,4 +1,4 @@
-# errormoji 😤➡️🤣
+# 😤 ➡️ 🤣
 
 Errors can be frustrating, but could they also be fun?
 
