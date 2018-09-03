@@ -34,7 +34,7 @@ Error in file(file, “rt”): cannot open the connection
 - 🌫️🏛️🔘  
 Undefined columns selected
 
-- ❌🔢 🗣 ➡️ 0️⃣1️⃣ 👩‍⚕️
+- ❌🔢 🗣 ➡️ 0️⃣1️⃣ 👩‍⚕️  
 Non-numeric argument to binary operator
 
 ### `verbose = TRUE`
