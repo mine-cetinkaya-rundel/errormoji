@@ -10,4 +10,4 @@ Note that I'm not suggesting we replace R errors with emojis (that might make th
 
 If you have suggestions for error/emoji translations to add, please submit a pull request or add an issue. If an error is specific to a package, please indicate that in your submission as well.
 
-And please review the code of conduct before submitting your translation.
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
