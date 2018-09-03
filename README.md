@@ -19,7 +19,7 @@ If you have suggestions for R error/emoji translations to add, please see the [c
 
 ### `verbose = FALSE`
 
-- 📦/📛🌌 🚚 ☹️  
+#### 📦/📛🌌 🚚 ☹️  
 Package or namespace load failed
 
 - 🚶‍♂️⬅️🚪  🔱  👑  1️⃣  
