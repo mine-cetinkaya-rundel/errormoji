@@ -13,7 +13,7 @@ The translations are organized in two groups:
 - `verbose = FALSE`: without any explanation
 - `verbose = TRUE`: some explanation on where the error comes from, why it might be happening, and how it might be resolved
 
-If you have suggestions for R error/emoji translations to add, please see the [contributing guidelines](CONTRIBUTE.md).
+If you have suggestions for R error/emoji translations to add or want to request a translation, please see the [contributing guidelines](CONTRIBUTE.md).
 
 ## Translations
 
