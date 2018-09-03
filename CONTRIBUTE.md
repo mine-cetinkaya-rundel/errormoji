@@ -1,6 +1,6 @@
 # Contributing guidelines
 
-If you have suggestions for R error/emoji translations to add, please submit a pull request or add an issue. 
+If you have suggestions for R error/emoji translations to add, please submit a pull request or add an issue. If you would like to request a translation, please add an issue.
 
 Before doing so, please review the [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
