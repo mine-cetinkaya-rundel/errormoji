@@ -25,13 +25,13 @@ Package or namespace load failed
 - 🚶‍♂️⬅️🚪  🔱  👑  1️⃣  
 Exited with status 1
 
-- 💡 ⌨️ 𝍏 ❌🔪
+- 💡 ⌨️ 𝍏 ❌🔪  
 Object of type closure is not subsettable
 
-- 🗂(🗂, ®️✝️) ❌📭🖇
+- 🗂(🗂, ®️✝️) ❌📭🖇  
 Error in file(file, “rt”): cannot open the connection
 
-- 🌫️🏛️🔘
+- 🌫️🏛️🔘  
 Undefined columns selected
 
 - ❌🔢 🗣 ➡️ 0️⃣1️⃣ 👩‍⚕️
