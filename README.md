@@ -10,7 +10,7 @@ Note that I'm not suggesting we replace R errors with emojis (that might make th
 
 ## Contribute
 
-If you have suggestions for R error/emoji translations to add, please submit a pull request or add an issue. 
+If you have suggestions for R error/emoji translations to add, please submit a pull request or add an issue. Before doing so, please review the [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 You can submit a translation with or without additional explanation, or add explanation to someone else's submission.
 
@@ -26,8 +26,6 @@ Everything above, plus
 - ❓: include a brief sentence describing when users might expect to see the error (with the aim of helping those who are unfamiliar with the error), and
 - ✅: briefly (and generically) describe how you would debug the error.
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
 ## Translate
 
 ### `verbose = FALSE`
@@ -35,8 +33,6 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 - Package or namespace load failed: 📦/📛🌌 🚚 ☹️
 
 - Exited with status 1: 🚶‍♂️⬅️🚪  🔱  👑  1️⃣
-
-- Execution halted: 💉🛑
 
 ### `verbose = TRUE`
 
