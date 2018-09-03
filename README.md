@@ -25,7 +25,24 @@ Package or namespace load failed
 - 🚶‍♂️⬅️🚪  🔱  👑  1️⃣  
 Exited with status 1
 
+- 💡 ⌨️ 𝍏 ❌🔪
+Object of type closure is not subsettable
+
+- 🗂(🗂, ®️✝️) ❌📭🖇
+Error in file(file, “rt”): cannot open the connection
+
+- 🌫️🏛️🔘
+Undefined columns selected
+
+- ❌🔢 🗣 ➡️ 0️⃣1️⃣ 👩‍⚕️
+Non-numeric argument to binary operator
+
 ### `verbose = TRUE`
+
+- 💡❌🕵️‍♀️
+Object not found
+    - ❓: Object not defined in the active workspace.
+    - ✅: If working in the console, check your environment tab, and if the object is not listed there, define it. If working in an R Markdown file, define the object prior to the code chunk resulting in this error.
 
 - 👩‍⚕️🔪 🚫 ❌ 🏃‍↔️ 📖  
 Operation not allowed without an active reactive context
