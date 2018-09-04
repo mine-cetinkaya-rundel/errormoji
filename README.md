@@ -40,6 +40,9 @@ Non-numeric argument to binary operator
 - 🤷‍♀️💰 👍/👎 🍞  
 Missing value where TRUE/FALSE needed
 
+- 💲👩‍♿️⚛️↗️
+$ operator is invalid for atomic vectors
+
 ### `verbose = TRUE`
 
 - 💡❌🕵️‍♀️  
