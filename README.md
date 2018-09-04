@@ -37,6 +37,9 @@ Undefined columns selected
 - ❌🔢 🗣 ➡️ 0️⃣1️⃣ 👩‍⚕️  
 Non-numeric argument to binary operator
 
+- 🤷‍♀️💰 👍/👎 🍞
+Missing value where TRUE/FALSE needed
+
 ### `verbose = TRUE`
 
 - 💡❌🕵️‍♀️  
