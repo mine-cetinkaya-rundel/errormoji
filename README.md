@@ -61,5 +61,6 @@ Operation not allowed without an active reactive context
 ⏩ 😦 ➕ 😄 ❓  
 Error: mapping must be created by aes()  
 Did you use %>% instead of +?
-    - ❓: You are using the pipe operator with `ggplot`
+    - 📦: [ggplot2](https://ggplot2.tidyverse.org/)
+    - ❓: You are using the pipe operator with `ggplot()`
     - ✅: Replace `ggplot() %>% geom_*()` with `ggplot() + geom_*()`
