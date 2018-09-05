@@ -57,3 +57,9 @@ Operation not allowed without an active reactive context
     - 📦: [shiny](http://shiny.rstudio.com/)
     - ❓: You are trying to access a "reactive" element inside the Shiny `server` function, but outside any of the reactive functions such as `renderTable()` or `renderPlot()` etc.
     - ✅: Wrap it inside a `reactive()` or place inside a `render*()` function.
+- 🗺 ❗️ 🐣 🎨  
+⏩ 😦 ➕ 😄 ❓  
+Error: mapping must be created by aes()  
+Did you use %>% instead of +?
+    - ❓: You are using the pipe operator with `ggplot`
+    - ✅: Replace `ggplot() %>% geom_*()` with `ggplot() + geom_*()`
