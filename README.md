@@ -11,7 +11,7 @@ Note that I'm not suggesting we replace R errors with emojis (that might make th
 The translations are organized in two groups:
 
 - `verbose = FALSE`: without any explanation
-- `verbose = TRUE`: some explanation on where the error comes from, why it might be happening, and how it might be resolved
+- `verbose = TRUE`: some explanation on where the error comes from, why it might be happening, and how it can be resolved
 
 If you have suggestions for R error/emoji translations to add or want to request a translation, please see the [contributing guidelines](CONTRIBUTE.md).
 
