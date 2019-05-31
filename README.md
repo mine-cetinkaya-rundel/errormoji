@@ -15,6 +15,8 @@ The translations are organized in two groups:
 
 If you have suggestions for R error/emoji translations to add or want to request a translation, please see the [contributing guidelines](CONTRIBUTE.md).
 
+Hello.
+
 ## Translations
 
 ### `verbose = FALSE`
